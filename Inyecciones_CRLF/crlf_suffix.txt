@@ -1,0 +1,6 @@
+Pwned:foo
+Pwned%3Afoo
+Pwned%3afoo
+Pwned:%20foo
+Pwned%3A%20foo
+Pwned%3a%20foo
