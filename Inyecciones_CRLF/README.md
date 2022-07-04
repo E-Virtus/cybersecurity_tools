@@ -2,7 +2,7 @@
 
 En E-Virtus realizamos una investigación con el objetivo de generar diccionarios únicos y nuevos con diferentes tipos de payloads para Inyecciones CRLF, considerando casos prácticos y válidos, apoyándonos en registros públicos de códigos CVE y disclosure técnico de reportes en la plataforma de bug bounty HackerOne.
 
-El repositorio contiene 1 diccionario con un total de 383 payloads para inyección CRLF, validados mediante la reproducción del registro CVE-2020-7695, una inyección CRLF en el servidor web de tipo ASGI Uvicorn.
+El repositorio contiene 1 diccionario con un total de 384 payloads para inyección CRLF, validados mediante la reproducción del registro CVE-2020-7695, una inyección CRLF en el servidor web de tipo ASGI Uvicorn.
 
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-7695
 * https://security.snyk.io/vuln/SNYK-PYTHON-UVICORN-570471
