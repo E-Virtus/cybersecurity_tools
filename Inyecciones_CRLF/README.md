@@ -13,8 +13,8 @@ También contiene una plantilla Yaml para ser utilizada con Nuclei
 
 Todos los detalles relacionados a estas pequeña investigación, pueden ser revisados en los siguientes enlaces:
 
-* e-vurtus.blog.link
-* linkedin.pulse.link
+* https://www.youtube.com/watch?v=hkzNsQzS8Sk
+* https://www.linkedin.com/feed/update/urn:li:activity:6950208009629220864/
 
 ## Utilización básica de CRLF en lenguajes de programación
 
@@ -43,7 +43,7 @@ Todos los detalles relacionados a estas pequeña investigación, pueden ser revi
 | Inyección CRLF en valores de parámetros mediante método HTTP POST   | https://hackerone.com/reports/181939        |
 | Cross-site Scripting (XSS) usando payload de esquema Data URL (HTML)   | https://hackerone.com/reports/177624        |
 | Inyección de CRLF mediante HTTP headers   | https://hackerone.com/reports/798686        |
-| enegación de Servicios (DoS)   | https://hackerone.com/reports/583819        |
+| Denegación de Servicios (DoS)   | https://hackerone.com/reports/583819        |
 | Inyección de CRLF en rutas de directorios   | https://hackerone.com/reports/143139        |
 | Bypass de comentarios en JavaScript   | https://hackerone.com/reports/221883        |
 | Bug Chaining   | https://hackerone.com/reports/441090        |
